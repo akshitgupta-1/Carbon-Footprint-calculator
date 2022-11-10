@@ -1,0 +1,277 @@
+body
+{
+    margin:50px; 
+    font-size: 16px;
+    color: #666;
+    -webkit-font-smoothing: subpixel-antialiased;
+    font-weight: 400;
+    font-family: 'ITCAvantGardeStd Bk';
+}
+
+
+.pprs2 {
+    background: #eff1f2;
+    min-height: 500px;
+  
+}
+div
+{
+    padding: 0;
+    margin: 0;
+    display: block;
+}
+.center-block2 {
+    padding: 55px 0;
+    width: 85%;
+    max-width: 1230px;
+    margin: 0 auto;
+    position: relative;
+}
+#lblMsg {
+    position: absolute;
+    bottom: -30px;
+    left: 0;
+}
+span{
+    padding: 0;
+    margin: 0;
+}
+.search-form {
+    display: block;
+}
+form {
+    display: block;
+    padding: 0;
+    margin: 0;
+}
+input {
+    text-decoration: none;
+    outline: 0;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+.releases-type {
+    width: 100%;
+    margin-right: 0%;
+    margin-bottom: 20px;
+    display: inline-block;
+}
+.releases-month{
+    width: 45%;
+    margin-right: 4.5%;
+    margin-bottom: 20px;
+}
+.releases-year {
+    width: 45%;
+    margin-right: 4.5%;
+    margin-bottom: 20px;
+    display: inline-block;
+}
+
+.dropdownvisible {
+    height: auto;
+}
+
+
+select {
+    
+    text-indent: 1px;
+
+}
+option {
+    font-weight: normal;
+    display: block;
+    white-space: nowrap;
+    min-height: 1.2em;
+    padding: 0px 2px 1px;
+}
+.dropcontainer {
+    position: relative;
+    font-size: 14px;
+    font-weight: 400;
+    color: #1c4176;
+}
+.releases-type .dropcontainer ul {
+    position: absolute;
+    font-size: 15px;
+    font-weight: 400;
+    border: 1px solid #dddddd;
+    border-top: none;
+    background: #fff;
+    list-style-type: none;
+    padding: 9px 10px;
+    margin: 0;
+    width: 100%;
+    z-index: 100;
+    box-sizing: border-box;
+}
+ul {
+    
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+.dropdownhidden {
+    display: none;
+}
+.dropcontainer ul li:first-child {
+    display: none;
+}
+.dropcontainer ul li {
+    padding: 5px;
+    transition: all 0.5s ease;
+}
+li {
+    
+    text-align: -webkit-match-parent;
+}
+.dropcontainer ul li a {
+    color: #1c4176;
+}
+a, input {
+    text-decoration: none;
+    outline: 0;
+}
+
+element.style {
+}
+.dropcontainer ul li a {
+    color: #1c4176;
+}
+a, input {
+    text-decoration: none;
+    outline: 0;
+}
+a
+{
+    padding: 0;
+    margin: 0;
+}
+
+.dropdownvisible2 {
+    height: auto;
+}
+select {
+    -webkit-appearance: none;
+   text-indent: 1px;
+    
+    background-repeat: no-repeat;
+    background-position: 95%;
+    position: relative;
+    color: #4a4a4a;
+    outline: none;
+    font-weight: 400;
+    width: 100%;
+    padding: 8px 20px 8px 10px;
+    margin: 0px 0;
+    border: 1px solid #d6d6d6;
+    border-radius: 3px;
+    font-size: 14px;
+    line-height: 24px;
+    writing-mode: horizontal-tb !important;
+    
+    
+    text-rendering: auto;
+    
+    letter-spacing: normal;
+    word-spacing: normal;
+    
+    text-transform: none;
+    
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    
+    
+    align-items: center;
+    white-space: pre;
+    -webkit-rtl-ordering: logical;
+    background-color: field;
+    cursor: default;
+}
+.gap30 {
+    padding-top: 30px;
+}
+
+.overflow-auto {
+    width: 100%;
+    overflow: auto;
+}
+.table-box {
+    width: 100%;
+    border-collapse: collapse;
+    border: none;
+}
+.table-box th {
+    color: #FFFFFF;
+    font-weight: bold;
+    background: #4f8acd;
+    padding: 12px 12px;
+    text-transform: uppercase;
+    border: 1px solid #4d8fd8;
+    border-bottom: none;
+    font-size: 13px;
+}
+th {
+    text-align: left;
+    line-height: 20px;
+    display: table-cell;
+    vertical-align: inherit;
+}
+.table-box tr:nth-of-type(odd) {
+    background: #eff1f2;
+}
+input {
+    text-decoration: none;
+    outline: 0;
+    border-width: 2px;
+    border-style: inset;
+    border-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+    border-image: initial;
+    appearance: auto;
+    -webkit-rtl-ordering: logical;
+    cursor: text;
+    background-color: field;
+    word-spacing: normal;
+    line-height: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-rendering: auto;
+    color: fieldtext;
+    letter-spacing: normal;
+    writing-mode: horizontal-tb !important;
+}
+element.style {
+    text-align: right;
+    width: 20%;
+}
+table {
+
+    border-spacing: 2px;
+    text-indent: initial;
+    border-spacing: 2px;
+}
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+td {
+    
+    font-weight: 400;
+    display: table-cell;
+    
+}
